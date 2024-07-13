@@ -82,7 +82,7 @@ var app = new function () {
         uniqsnd: !1
     }], this.bonusarray = [{
         name: "Terror",
-        src: "b1-terror-hb.webm",
+        src: "b1-terror-hb.mp4",
         code: "1,2,6,8,13",
         sound: "bonus-terror",
         aspire: "aspire-terror"

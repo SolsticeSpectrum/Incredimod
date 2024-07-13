@@ -1,5 +1,5 @@
 # Incredimod
-Modded version of Incredibox containing multiple mods togather
+Modded version of Incredibox containing multiple mods together
 
 You can run it on apache, nginx or any other web server.  
 The Android version has same assets as PC version.  
