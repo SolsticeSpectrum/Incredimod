@@ -1,0 +1,17 @@
+{
+    "name": "Incredibox Mod",
+    "short_name": "Incredimod",
+    "theme_color": "#fff",
+    "background_color": "#111",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "https://solsticespectrum.github.io/Incredimod/",
+    "description": "A modded version of Incredibox",
+    "orientation": "landscape",
+    "icons": [
+        {
+            "src": "https://solsticespectrum.github.io/Incredimod/img/og-logo.png",
+            "sizes": "240x240"
+        }
+    ]
+}
